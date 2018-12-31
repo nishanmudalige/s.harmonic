@@ -1,3 +1,7 @@
+# Created by Nishan Mudalige and Dr. Peter Kim
+# Maintained by Nishan Mudalige. Email: mudalign@uoguelph.ca
+# Copyright Nishan Mudalige and Dr. Peter Kim, 2018
+
 library(Ryacas)
 library(tm)
 
