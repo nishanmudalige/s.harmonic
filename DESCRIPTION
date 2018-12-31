@@ -1,0 +1,13 @@
+Package: s.harmonic
+Type: Package
+Title: A package to evaluate spherical harmonics and express Legendre polynomials
+Version: 1.0
+Author: Nishan Mudalige, Peter Kim
+Maintainer: Nishan Mudalige <mudalign@uoguelph.ca>
+Description: An R package to evaluate spherical harmonics and express Legendre polynomials using the Rodrigues' representation.
+License: GNU GPLv3 <https://www.gnu.org/licenses/gpl-3.0.en.html>
+Encoding: UTF-8
+LazyData: true
+Depends: R (>= 3.5.1)
+Imports: Ryacas, tm
+RoxygenNote: 6.1.1
