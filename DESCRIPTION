@@ -10,4 +10,4 @@ Encoding: UTF-8
 LazyData: true
 Depends: R (>= 3.5.1)
 Imports: Ryacas, tm
-RoxygenNote: 6.1.1
+RoxygenNote: 7.1.1
