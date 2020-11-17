@@ -10,7 +10,7 @@
   \item{phi}{The azimuthal angle.}
 }
 \details{}
-\value{}
+\value{The spherical harmonic evaluated at theta and phi for degree l and order m.}
 \references{}
 \author{Nishan Mudalige}
 \note{}
